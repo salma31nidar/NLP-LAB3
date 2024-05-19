@@ -2,14 +2,12 @@
 
 ## Overview
 
-This repository contains the code and data for the Natural Language Processing (NLP) project conducted as part of the AISD Master's program at the Faculty of Sciences and Techniques of Tangier, Abdelmalek Essaadi University. The project focuses on language modeling, regression, and classification tasks using various NLP techniques and machine learning algorithms.
+This repository contains the code and data for the Natural Language Processing (NLP) - LAB3 The project focuses on language modeling, regression, and classification tasks using various NLP techniques and machine learning algorithms.
 
 ## Project Structure
 
 - `part1/`: Code and data for Part 1 of the project, which involves language modeling and regression.
 - `part2/`: Code and data for Part 2 of the project, which focuses on language modeling and classification.
-- `data/`: Contains the datasets used in the project.
-- `README.md`: This file, providing an overview of the project and instructions for usage.
 
 ## Part 1: Language Modeling / Regression
 
@@ -34,10 +32,4 @@ In Part 2, the workflow was as follows:
 ## Synthesis
 
 Through this project, we gained hands-on experience in preprocessing natural language data, encoding text into numerical features, training machine learning models, and evaluating model performance. We also learned about the strengths and limitations of different NLP techniques and algorithms in solving real-world problems.
-
-## Repository Link
-
-[Link to the GitHub Repository](https://github.com/your_username/your_repository)
-
-Feel free to explore the code and data in the repository!
 
